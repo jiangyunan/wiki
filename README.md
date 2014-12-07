@@ -1,2 +1,2 @@
 #我的知识库
-[JAVA](JAVA/index)
+[JAVA](JAVA/index.md)
